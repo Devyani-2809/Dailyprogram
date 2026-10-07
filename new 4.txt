@@ -1,0 +1,22 @@
+/*1. Vehicle Management System
+Scenario:
+A transportation company manages Cars, Bikes, and Trucks. Every vehicle has a different way of calculating fuel consumption.
+Question:
+How would you design a calculateFuelConsumption() method using polymorphism?
+*/
+class Company
+{
+
+void calculateFuelConsumption(double distance,double fuel)
+{
+
+}
+void calculateFuelConsumption(int distance,int fuel)
+{
+}
+
+void calculateFuelConsumption()
+{
+}
+public static void main(String[] args)
+{
