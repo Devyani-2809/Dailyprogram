@@ -1,0 +1,7 @@
+/*
+7.	Write a Java program to demonstrate Multiple Inheritance using Interfaces. Create two interfaces Printable and Showable and implement both in a single class. 
+*/
+interface Printable
+{
+void print();
+}
